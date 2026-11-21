@@ -107,8 +107,7 @@ The fast path to your first submission: sign up on make.fun, link your GitHub ac
   ```bash
   node cli/makefun.mjs status
   ```
-- Fix every warning or failed check reported by the system and resubmit before the deadline.
-- Keep in mind that early leaderboard scores are provisional, and exact ties are resolved in favor of the entry submitted first.
+- Once your submission is accepted, remember that early leaderboard scores are provisional while the server completes its final grading. Exact ties are resolved in favor of the entry submitted first, so submitting early gives you a strategic edge. If your entry is rejected or flags any warnings, fix the issues immediately and resubmit before the deadline.
 
 ### Step 7: Claim Your Prize
 - Once the bounty concludes and winners are announced, claim your placed prize directly from your profile dashboard or via CLI:
